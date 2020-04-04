@@ -1,4 +1,4 @@
-baseURL = "http://baobaocenter.org"
+baseURL = "http://baobaocenter.com"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
